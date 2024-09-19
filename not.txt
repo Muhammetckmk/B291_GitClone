@@ -1,1 +1,3 @@
 git clone komutu Github ta var olan repo yu local e indirmek için kullanılır
+
+remote repo da değişiklik
